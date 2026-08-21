@@ -1,0 +1,28 @@
+{
+  "repo": "bfd3-virtual-drums-studio",
+  "product": "BFD3 Virtual Drums Studio",
+  "kind": "dev",
+  "install_type": "nexpath",
+  "install_url": "https://bfd3.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "dev",
+  "topics": [
+    "bfd3-faq",
+    "bfd3-setup-page",
+    "bfd3-pc",
+    "install-bfd3-windows",
+    "bfd3-quick-start",
+    "bfd3-build",
+    "workflow",
+    "toolkit",
+    "utility",
+    "configuration",
+    "deployment",
+    "setup-guide",
+    "software"
+  ],
+  "stars_cache": 17,
+  "nexpath_slug": "bfd3",
+  "nexpath_app_name": "BFD3"
+}
